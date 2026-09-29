@@ -1,4 +1,5 @@
 # Calculater
+# Solo project
 
 # To-Do
 # Add more functions, create an interactive GUI with pressable keys
