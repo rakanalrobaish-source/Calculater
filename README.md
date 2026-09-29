@@ -1,11 +1,10 @@
 # Calculater
-# Solo project
 
 # To-Do
-# Add more functions, create an interactive GUI with pressable keys
+Add more functions, create an interactive GUI with pressable keys
 
 # Working-On
-# None
+None
 
 # Done
-# Simple raw code with addition, subtraction, multiplication, and division
+Simple raw code with addition, subtraction, multiplication, and division
